@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 云上日记</title>
+    <link>https://gcvition.github.io/posts/</link>
+    <description>Recent content in Posts on 云上日记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 08 Jun 2023 15:30:30 +0800</lastBuildDate><atom:link href="https://gcvition.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://gcvition.github.io/posts/hello-world/</link>
+      <pubDate>Thu, 08 Jun 2023 15:30:30 +0800</pubDate>
+      
+      <guid>https://gcvition.github.io/posts/hello-world/</guid>
+      <description>I sit ay my window this morning where the world like a passer-by stops for a moment, nods to me and gose.
+我今晨坐在窗前，世界如一个路人似的，停留了一会，向我点点头又走过去了。</description>
+    </item>
+    
+  </channel>
+</rss>
